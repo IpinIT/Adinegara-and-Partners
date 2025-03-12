@@ -109,14 +109,9 @@ img {
 }
 
 .btn-brand:hover {
-  color: var(--c-brand);
+  color: black;
+  background-color: #ffbd59;
 
-}
-
-.btn-brand:visited {
-    background-color: var(--c-brand) !important;
-    color: white !important;
-    box-shadow: none !important;
 }
 
 /* HERO */
